@@ -1,0 +1,34 @@
+body {
+    font-family: 'Handjet', sans-serif;
+    font-weight: 600;
+    min-height: 99vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#container {
+    font-size: 3rem;
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 12rem;
+}
+
+footer {
+    margin-top: auto;
+    display: flex;
+}
+
+.footerText {
+    margin-right: 1rem;
+}
+
+.links {
+    align-self: center;
+}
+p{
+font-size: 2rem;
+margin-top: 9px;
+}
